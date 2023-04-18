@@ -1,0 +1,8 @@
+/* Write your CSS here */
+.not_found_content_container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
